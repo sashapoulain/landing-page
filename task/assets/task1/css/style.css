@@ -1,0 +1,39 @@
+body{ background-color:#a6bbc9;}
+
+.baslik1{padding: 10px; font-size:40px; font-family: sans-serif;}
+
+.icerik{width:100%; height: fit-content; margin-top: 60px; margin-bottom:30px; }
+
+.div-f{padding-top: 3px; padding-bottom:10px; background-color: black; width:100%; border-top: 1px solid #a6bbc9;}
+
+.title-j{font-family: sans-serif; font-size:15px; color: ghostwhite; }
+
+.join-us{font-family: sans-serif; font-size:12px;}
+
+.join-us .field-1{box-shadow: none; font-size: 13px; font-family: sans-serif;}
+
+.join-us .field-2{box-shadow: none; font-size: 13px; font-family: sans-serif;}
+
+.button-sendit{border: 1px solid #a6bbc9; box-shadow:none !important; font-family: sans-serif; font-size: 13px;   color:ghostwhite;}
+
+.adress-field{margin-top: 22px; font-family: sans-serif; font-size:12px;  color:ghostwhite;}
+
+.adress-field .title-a{font-size: 14px; padding-bottom: 16px; }
+
+.field-copyright{font-family: sans-serif; font-size:10px; border-left: 1px solid #a6bbc9; color:ghostwhite;}
+
+.buttons2{box-shadow: none !important; border: 1px solid ghostwhite; font-family: sans-serif; font-size:14px;}
+
+.me-2{box-shadow: none !important; font-family: sans-serif; 
+    border: 1px solid transparent !important; font-size: 14px;}
+
+.form-control{border-radius: 0; border: 1px solid transparent !important;}
+
+.signup-login{margin-top:18px; margin-right: 10px;}
+
+.button-t{background-color: black; color: ghostwhite; font-size: 15px; box-shadow:none !important;}
+
+/* .menu-d{font-size: 12px; font-family: sans-serif;}
+ */
+
+ .dropdown-menu{font-size: 14px; font-family: sans-serif; min-width:50px !important; }
